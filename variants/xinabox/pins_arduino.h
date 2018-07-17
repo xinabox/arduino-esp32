@@ -14,6 +14,12 @@
 static const uint8_t LED_BUILTIN = 27;
 #define BUILTIN_LED  LED_BUILTIN // backward compatibility
 
+static const uint8_t LED_GREEN = 26;
+#define GREEN_LED  LED_GREEN // backward compatibility
+
+static const uint8_t LED_RED = 25;
+#define RED_LED  LED_RED // backward compatibility
+
 static const uint8_t TX = 1;
 static const uint8_t RX = 3;
 
